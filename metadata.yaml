@@ -1,0 +1,30 @@
+_repo: Twenty-tales-by-twenty-women-From-real-life-in-Chicago_68894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-09-01'
+identifiers:
+  gutenberg: '68894'
+language: en
+pgterms:marc904: https://archive.org/details/twentytalesbytwe00lawr
+pgterms:marc905: 20200125212150anonymous
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: MFR and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Novelty Publishing Co.,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Twenty tales by twenty women: From real life in Chicago'
+url: http://www.gutenberg.org/ebooks/68894
